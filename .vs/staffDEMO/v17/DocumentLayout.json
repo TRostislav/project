@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\staffDEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\staffDEMO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:staffDEMO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Interfaces.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Interfaces.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Personal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Personal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Personal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Personal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Engineer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Engineer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Engineer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Engineer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|C:\\Users\\Student\\Desktop\\staffDEMO\\Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1015DCF1-E3C5-4D78-957A-85DFE783CF1F}|staffDEMO.vcxproj|solutionrelative:Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 274,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Manager.cpp",
+              "RelativeDocumentMoniker": "Manager.cpp",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Manager.cpp",
+              "RelativeToolTip": "Manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T11:21:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manager.h",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Manager.h",
+              "RelativeDocumentMoniker": "Manager.h",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Manager.h",
+              "RelativeToolTip": "Manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T11:19:18.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engineer.cpp",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Engineer.cpp",
+              "RelativeDocumentMoniker": "Engineer.cpp",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Engineer.cpp",
+              "RelativeToolTip": "Engineer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T10:34:00.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Engineer.h",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Engineer.h",
+              "RelativeDocumentMoniker": "Engineer.h",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Engineer.h",
+              "RelativeToolTip": "Engineer.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T09:53:41.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Employee.cpp",
+              "RelativeDocumentMoniker": "Employee.cpp",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Employee.cpp",
+              "RelativeToolTip": "Employee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T09:16:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personal.cpp",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Personal.cpp",
+              "RelativeDocumentMoniker": "Personal.cpp",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Personal.cpp",
+              "RelativeToolTip": "Personal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T09:12:35.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personal.h",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Personal.h",
+              "RelativeDocumentMoniker": "Personal.h",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Personal.h",
+              "RelativeToolTip": "Personal.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T08:35:03.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.h",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Project.h",
+              "RelativeDocumentMoniker": "Project.h",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Project.h",
+              "RelativeToolTip": "Project.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T08:27:04.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interfaces.h",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Interfaces.h",
+              "RelativeDocumentMoniker": "Interfaces.h",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Interfaces.h",
+              "RelativeToolTip": "Interfaces.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T08:21:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.h",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\Employee.h",
+              "RelativeDocumentMoniker": "Employee.h",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\Employee.h",
+              "RelativeToolTip": "Employee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T08:03:32.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staffDEMO.cpp",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\staffDEMO\\staffDEMO.cpp",
+              "RelativeDocumentMoniker": "staffDEMO.cpp",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\staffDEMO\\staffDEMO.cpp",
+              "RelativeToolTip": "staffDEMO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:01:53.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
